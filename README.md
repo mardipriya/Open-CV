@@ -92,11 +92,3 @@ cd GestureVoiceVideoPlayer
 
 <hr>
 
-<h2>👩‍💻 ABOUT THE DEVELOPER</h2>
-<p>
-  <b>Swathi Priya Mardi</b><br>
-  🎓 MS in Computer Science at UCF<br>
-  💡 Passionate about AI, Computer Vision & Human-Computer Interaction<br>
-  📬 Email: <b>sw786285@ucf.edu</b><br>
-  🌐 <a href="https://www.linkedin.com/in/your-profile">LinkedIn</a>
-</p>
